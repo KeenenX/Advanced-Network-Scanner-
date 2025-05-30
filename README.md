@@ -27,7 +27,7 @@
 
 - Child-Friendly Output Format: Results are organized, labeled, and simplified.
 
-  <!-- Subsection 1 -->
+<hr width="100%"/>
 
 ## 🛰️ Network Scanner
 
@@ -46,7 +46,7 @@
 
 "Show me all active hosts in a /24 subnet without raising alarms."
 
-  <!-- Subsection 2 -->
+<hr width="100%"/>
 
 ## 🌊 Port Scanner
 
@@ -72,7 +72,7 @@
 
 "Scan the top 1000 ports on a machine and identify which services are running."
 
-  <!-- Subsection 3 -->
+<hr width="100%"/>
 
 ## 🛡 Vulnerability Scanner
 
@@ -96,6 +96,7 @@
 
 "Quickly find outdated services and known CVEs on exposed ports."
 
+<hr width="100%"/>
 
 
 
