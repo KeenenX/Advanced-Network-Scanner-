@@ -1,6 +1,6 @@
 # 🔍 Advanced Network Scanner+ by KeenenX
 
-  <img src="https://i.imgur.com/l1sLAc1.png" alt="naabu" width="700px">
+  <img src="https://i.imgur.com/l1sLAc1.png" alt="naabu" width="570px">
   <br>
 </h1>
 
